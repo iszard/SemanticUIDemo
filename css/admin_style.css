@@ -1,0 +1,17 @@
+#topHeader {
+    height: 10%;
+    padding: 20px;
+}
+
+#mainGrid {
+    padding: 20px;
+}
+
+#mainGrid > .column {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+#personFeed > * {
+    margin-bottom: 10px;
+}

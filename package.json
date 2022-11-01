@@ -10,9 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "natives": "^1.1.6",
-    "semantic-ui": "^2.4.2"
+    "semantic-ui": "^2.5.0"
   },
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^4.0.2"
   }
 }
